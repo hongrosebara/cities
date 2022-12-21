@@ -65,5 +65,4 @@ export async function getStaticProps() {
   };
 }
 
-
 export default HomePage;
